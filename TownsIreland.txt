@@ -1,0 +1,279 @@
+town	number	277
+Name	County	000
+Abbeyfeale	Limerick	2023
+Abbeyleix	Laois	1770
+Adare	Limerick	1129
+Aghada	Cork	1030
+Bunbeg	Donegal	1491
+Dungloe	Donegal	1164
+Dingle	Kerry	2050
+Annacotty	Limerick	2930
+Ardee	Louth	4928
+Ardnacrusha	Clare	1383
+Arklow	Wicklow	13163
+Ashbourne	Meath	12679
+Ashford	Wicklow	1425
+Askeaton	Limerick	1137
+Athboy	Meath	2445
+Athenry	Galway	4445
+Athgarvan	Kildare	1176
+Athlone	Westmeath / Roscommon	21349
+Athy	Kildare	9677
+Aughrim	Wicklow	1442
+Claregalway	Galway	1248
+Bailieborough	Cavan	2683
+Balbriggan	Fingal	21722
+Ballaghaderreen	Roscommon	1808
+Ballina	Mayo	10171
+Ballina	Tipperary	2632
+Ballinasloe	Galway / Roscommon	6662
+Ballinroad	Waterford	1161
+Ballinrobe	Mayo	2786
+Ballisodare	Sligo	1350
+Ballivor	Meath	1809
+Ballybay	Monaghan	1241
+Ballybofey	Donegal	4852
+Ballybunion	Kerry	1413
+Ballyconnell	Cavan	1105
+Ballygeary	Wexford	1200
+Ballyhaunis	Mayo	2366
+Ballyjamesduff	Cavan	2661
+Ballylinan	Laois	1101
+Ballymahon	Longford	1877
+Ballymote	Sligo	1549
+Ballyragget	Kilkenny	1082
+Ballyshannon	Donegal	2299
+Balrothery	Fingal	2017
+Baltinglass	Wicklow	2137
+Banagher	Offaly	1760
+Bandon	Cork	6957
+Bantry	Cork	2722
+Belmullet	Mayo	1019
+Bearna	Galway	1998
+Belturbet	Cavan	1369
+Birr	Offaly / Tipperary	4370
+Blarney	Cork City	2539
+Blessington	Wicklow / Kildare	5520
+Boyle	Roscommon	2568
+Bray	Wicklow / Dublin	32600
+Bunclody	Carlow / Wexford	1984
+Buncrana	Donegal	6785
+Bundoran	Donegal	1963
+Caherconlish	Limerick	1476
+Cahir	Tipperary	3593
+Cahirciveen	Kerry	1041
+Callan	Kilkenny	2475
+Carlingford	Louth	1445
+Carlow	Carlow / Laois	24272
+Carndonagh	Donegal	2471
+Carnew	Wicklow	1052
+Carrickmacross	Monaghan	5032
+Carrick-on-Shannon	Leitrim / Roscommon	4062
+Carrick-on-Suir	Tipperary	5771
+Carrigaline	Cork	15770
+Carrigtwohill	Cork	5080
+Cashel	Tipperary	4422
+Castlebar	Mayo	12068
+Castlebellingham	Louth	1126
+Castleblayney	Monaghan	3607
+Castlebridge	Wexford	1840
+Castlecomer	Kilkenny	1502
+Castleconnell	Limerick	2107
+Castledermot	Kildare	1475
+Castleisland	Kerry	2486
+Castlemartyr	Cork	1600
+Castlepollard	Westmeath	1163
+Castlerea	Roscommon	1992
+Cavan	Cavan	10914
+Celbridge	Kildare	20288
+Charlestown	Mayo / Sligo	1033
+Clane	Kildare	7280
+Clara	Offaly	3336
+Claremorris	Mayo	3687
+Clifden	Galway	1597
+Clogherhead	Louth	2145
+Clonakilty	Cork	4592
+Clones	Monaghan	1680
+Clonmel	Tipperary / Waterford	17140
+Cloyne	Cork	1803
+Cobh	Cork	12800
+Collooney	Sligo	1610
+Convoy	Donegal	1526
+Cootehill	Cavan	1853
+Cork	Cork City / Cork	208669
+Courtown Harbour	Wexford	3591
+Croom	Limerick	1159
+Crosshaven	Cork	2577
+Crossmolina	Mayo	1044
+Daingean	Offaly	1077
+Derrinturn	Kildare	1602
+Donabate	Fingal	7443
+Donegal	Donegal	2618
+Drogheda	Louth / Meath	40956
+Newbridge	Kildare	22742
+Dromiskin	Louth	1195
+Dublin	Dublin	1173179
+Duleek	Meath	4219
+Dunboyne	Meath	7272
+Dundalk	Louth	39004
+Dungarvan	Waterford	9227
+Dunleer	Louth	1822
+Dunmanway	Cork	1655
+Dunmore East	Waterford	1808
+Dunshaughlin	Meath	4035
+Edenderry	Offaly	7359
+Enfield	Meath	3239
+Ennis	Clare	25276
+Enniscorthy	Wexford	11381
+Enniskerry	Wicklow	1889
+Ennistymon	Clare	1045
+Ferbane	Offaly	1191
+Fermoy	Cork	6585
+Ferns	Wexford	1415
+Fethard	Tipperary	1545
+Foxford	Mayo	1315
+Galway	Galway City / Galway	79934
+Gorey	Wexford	9822
+Gort	Galway	2994
+Graiguenamanagh	Carlow / Kilkenny	1475
+Greystones	Wicklow	18140
+Inniscrone	Sligo	1156
+Johnstown	Kildare	1005
+Kanturk	Cork	2350
+Kells	Meath	6135
+Kenmare	Kerry	2376
+Kentstown	Meath	1179
+Kilbeggan	Westmeath	1288
+Kilcock	Kildare	6093
+Kilcoole	Wicklow	4239
+Kilcullen	Kildare	3710
+Kildare	Kildare	8634
+Kilkenny	Kilkenny	26512
+Kill	Kildare	3348
+Killaloe	Clare	1484
+Killarney	Kerry	14504
+Killorglin	Kerry	2199
+Killucan	Westmeath	1370
+Killumney	Cork	1132
+Killybegs	Donegal	1236
+Kilmacanogue	Wicklow	1042
+Kilmallock	Limerick	1668
+Kilmeage	Kildare	1082
+Kilpedder	Wicklow	1255
+Kilrush	Clare	2719
+Kiltimagh	Mayo	1069
+Kilworth	Cork	1055
+Kingscourt	Cavan	2499
+Kinlough	Leitrim	1032
+Kinnegad	Westmeath	2745
+Kinsale	Cork	5281
+Kinsealy	Fingal	6643
+Lanesborough	Longford / Roscommon	1454
+Laytown	Meath	11872
+Leixlip	Kildare	15504
+Letterkenny	Donegal	19274
+Lifford	Donegal	1626
+Limerick	Limerick / Clare	94192
+Lismore	Waterford	1374
+Listowel	Kerry	4820
+Longford	Longford	10008
+Longwood	Meath	1581
+Loughrea	Galway	5556
+Lusk	Fingal	7786
+Macroom	Cork	3765
+Moycullen	Galway	1704
+Malahide	Fingal	16550
+Mallow	Cork	12459
+Manorhamilton	Leitrim	1466
+Maynooth	Kildare	14585
+Edgeworthstown	Longford	2072
+Midleton	Cork	12496
+Milford	Donegal	1037
+Millstreet	Cork	1555
+Mitchelstown	Cork	3740
+Moate	Westmeath	2763
+Monaghan	Monaghan	7678
+Monasterevin	Kildare	4246
+Mooncoin	Kilkenny	1175
+Moroe	Limerick	1377
+Mountmellick	Laois	4777
+Mountrath	Laois	1774
+Moville	Donegal	1480
+Muff	Donegal	1226
+Bagenalstown	Carlow	2837
+Mullagh	Cavan	1348
+Mullingar	Westmeath	20928
+Naas	Kildare	21393
+Navan	Meath	30173
+Nenagh	Tipperary	8968
+Newcastle	South Dublin	3093
+Newcastle West	Limerick	6619
+Newmarket-on-Fergus	Clare	1784
+Newport	Tipperary	1995
+New Ross	Wexford / Kilkenny	8040
+Newtowncunningham	Donegal	1080
+Newtownmountkennedy	Wicklow	2835
+Oldcastle	Meath	1383
+Oranmore	Galway	4990
+Oughterard	Galway	1318
+Passage West	Cork	5843
+Piltown	Kilkenny	1220
+Portarlington	Laois / Offaly	8368
+Portlaoise	Laois	22050
+Portlaw	Waterford	1742
+Portmarnock	Fingal	9466
+Portrane	Fingal	1236
+Portumna	Galway	1450
+Prosperous	Kildare	2333
+Ramelton	Donegal	1266
+Raphoe	Donegal	1089
+Rathangan	Kildare	2611
+Rathcoole	South Dublin	4351
+Rathcormac	Cork	1762
+Rathdowney	Laois	1271
+Rathdrum	Wicklow	1663
+Rathkeale	Limerick	1441
+Charleville	Cork	3919
+Rathnew	Wicklow	3370
+Ratoath	Meath	9533
+Rochfortbridge	Westmeath	1473
+Roscommon	Roscommon	5876
+Roscrea	Tipperary	5446
+Rosslare	Wexford	1620
+Rush	Fingal	9943
+Saggart	South Dublin	3133
+Sallins	Kildare	5849
+Shannon	Clare	9729
+Sixmilebridge	Clare	2625
+Skerries	Fingal	10043
+Skibbereen	Cork	2778
+Slane	Meath	1369
+Sligo	Sligo	19199
+Stamullen	Meath	3361
+Stradbally	Laois	1350
+Strandhill	Sligo	1753
+Swinford	Mayo	1394
+Swords	Fingal	39248
+Templemore	Tipperary	1939
+Termonfeckin	Louth	1579
+Thomastown	Kilkenny	2445
+Thurles	Tipperary	7940
+Tipperary	Tipperary	4979
+Tower	Cork City	3421
+Tralee	Kerry	23691
+Tramore	Waterford	10381
+Trim	Meath	9194
+Tuam	Galway	8767
+Tubbercurry	Sligo	1986
+Tullamore	Offaly	14607
+Tullow	Carlow	4673
+Tullyallen	Louth	1547
+Urlingford	Kilkenny	1038
+Virginia	Cavan	2648
+Waterford	Waterford / Kilkenny	53504
+Watergrasshill	Cork	1346
+Westport	Mayo	6198
+Wexford	Wexford	20188
+Whitegate	Cork	1154
+Wicklow	Wicklow	10584
+Youghal	Cork	7963
